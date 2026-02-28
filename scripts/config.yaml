@@ -1,0 +1,29 @@
+# Slack Summary Monitor Configuration
+# Set SLACK_BOT_TOKEN environment variable before running.
+
+slack:
+  # Channels to monitor (by name or ID)
+  channels:
+    - general
+    - engineering
+    - product
+
+  # Keywords to track
+  keywords:
+    - bug
+    - deploy
+    - incident
+    - release
+    - outage
+    - blocker
+
+  # How many days back to look (default: 7 for weekly)
+  lookback_days: 7
+
+report:
+  # Output directory for generated reports (relative to project root)
+  output_dir: ./output
+  # Report title prefix
+  title_prefix: "Weekly Slack Summary"
+  # Maximum messages to include per keyword
+  max_examples_per_keyword: 5
