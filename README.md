@@ -2,20 +2,21 @@
 
 ![Audit](https://img.shields.io/badge/audit%3A%20PASS-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![OpenClaw](https://img.shields.io/badge/OpenClaw-skill-orange)
 
-> A skill that automatically monitors Slack channels for specific keywords and generates weekly summary reports with actionable insights for project managers.
+> Automatically monitors Slack channels for keywords and generates weekly summary reports with actionable insights.
 
-I need to know what you were working on before. Could you tell me what task you were trying to accomplish or what the previous model was working on? This will help me continue from where it left off.
+## Features
 
-## OpenClaw Marketplace
+- Monitor multiple Slack channels for specific keywords
+- Generate weekly summary reports with actionable insights
+- Provide clean CLI interface for direct use
+- Integrate with agent workflows
+- Handle errors gracefully and exit non-zero on failure
 
-This skill is available on [ClawHub](https://clawhub.ai) — the OpenClaw skill marketplace.
-Install it in any OpenClaw agent workspace with:
+## GitHub
 
-```bash
-clawhub install slack-summary-monitor
-```
+Source code: [github.com/NeoSkillFactory/slack-summary-monitor](https://github.com/NeoSkillFactory/slack-summary-monitor)
 
-**Recommended price when commercial:** $19.99
+**Price suggestion:** $19.99
 
 ## License
 
