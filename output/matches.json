@@ -1,828 +1,1031 @@
 [
   {
     "channel": "general",
-    "keyword": "outage",
-    "text": "Outage detected on the payment service — investigating now",
-    "user": "U_bob",
-    "ts": "1772151115.1315556"
-  },
-  {
-    "channel": "general",
     "keyword": "bug",
     "text": "Bug fix merged, ready for deploy",
     "user": "U_eve",
-    "ts": "1771993284.7727482"
+    "ts": "1772589230.7861795"
   },
   {
     "channel": "general",
     "keyword": "deploy",
     "text": "Bug fix merged, ready for deploy",
     "user": "U_alice",
-    "ts": "1771999060.8943198"
+    "ts": "1772740795.1301124"
   },
   {
     "channel": "general",
-    "keyword": "outage",
-    "text": "Outage postmortem scheduled for Friday",
-    "user": "U_dave",
-    "ts": "1771644376.9127212"
-  },
-  {
-    "channel": "general",
-    "keyword": "outage",
-    "text": "Outage detected on the payment service — investigating now",
+    "keyword": "incident",
+    "text": "Incident reported: database connection pool exhausted",
     "user": "U_eve",
-    "ts": "1771822745.1202896"
+    "ts": "1773025697.5497742"
   },
   {
     "channel": "general",
-    "keyword": "bug",
-    "text": "We found a bug in the authentication module that needs fixing ASAP",
-    "user": "U_alice",
-    "ts": "1771695939.902307"
-  },
-  {
-    "channel": "general",
-    "keyword": "bug",
-    "text": "We found a bug in the authentication module that needs fixing ASAP",
-    "user": "U_eve",
-    "ts": "1772178376.5679533"
-  },
-  {
-    "channel": "general",
-    "keyword": "blocker",
-    "text": "Sprint retrospective: 2 blockers identified",
-    "user": "U_alice",
-    "ts": "1771986485.1338487"
-  },
-  {
-    "channel": "general",
-    "keyword": "deploy",
-    "text": "Hotfix deploy completed successfully",
+    "keyword": "incident",
+    "text": "Minor incident with the CDN, resolved within 5 minutes",
     "user": "U_bob",
-    "ts": "1771837064.4525728"
-  },
-  {
-    "channel": "general",
-    "keyword": "incident",
-    "text": "Incident reported: database connection pool exhausted",
-    "user": "U_carol",
-    "ts": "1771890599.4001815"
-  },
-  {
-    "channel": "general",
-    "keyword": "incident",
-    "text": "Incident reported: database connection pool exhausted",
-    "user": "U_dave",
-    "ts": "1772083362.8923662"
-  },
-  {
-    "channel": "general",
-    "keyword": "bug",
-    "text": "Found a bug in the search indexer, creating a ticket",
-    "user": "U_eve",
-    "ts": "1772027394.2075062"
-  },
-  {
-    "channel": "general",
-    "keyword": "release",
-    "text": "Release candidate is passing all integration tests",
-    "user": "U_eve",
-    "ts": "1772054548.534277"
+    "ts": "1773066756.8369524"
   },
   {
     "channel": "general",
     "keyword": "deploy",
     "text": "Preparing for the deploy window tomorrow morning",
     "user": "U_eve",
-    "ts": "1771995389.6470566"
-  },
-  {
-    "channel": "general",
-    "keyword": "release",
-    "text": "New release v2.3.1 is ready for QA review",
-    "user": "U_bob",
-    "ts": "1772043714.3843923"
+    "ts": "1772520469.978165"
   },
   {
     "channel": "general",
     "keyword": "incident",
-    "text": "No incidents this week — great job team!",
-    "user": "U_alice",
-    "ts": "1772086348.8221874"
-  },
-  {
-    "channel": "general",
-    "keyword": "outage",
-    "text": "Outage postmortem scheduled for Friday",
-    "user": "U_bob",
-    "ts": "1771674257.042724"
-  },
-  {
-    "channel": "general",
-    "keyword": "outage",
-    "text": "Outage postmortem scheduled for Friday",
-    "user": "U_bob",
-    "ts": "1771830924.3215508"
-  },
-  {
-    "channel": "general",
-    "keyword": "release",
-    "text": "Planning the next release cycle, feedback welcome",
+    "text": "Minor incident with the CDN, resolved within 5 minutes",
     "user": "U_eve",
-    "ts": "1771655976.0836372"
-  },
-  {
-    "channel": "general",
-    "keyword": "bug",
-    "text": "The checkout flow has a bug on mobile devices",
-    "user": "U_carol",
-    "ts": "1771732564.4277272"
-  },
-  {
-    "channel": "general",
-    "keyword": "deploy",
-    "text": "Hotfix deploy completed successfully",
-    "user": "U_eve",
-    "ts": "1771783877.6784873"
-  },
-  {
-    "channel": "general",
-    "keyword": "incident",
-    "text": "No incidents this week — great job team!",
-    "user": "U_dave",
-    "ts": "1772218422.2539005"
-  },
-  {
-    "channel": "general",
-    "keyword": "outage",
-    "text": "Outage postmortem scheduled for Friday",
-    "user": "U_bob",
-    "ts": "1771672527.4646075"
-  },
-  {
-    "channel": "general",
-    "keyword": "bug",
-    "text": "The checkout flow has a bug on mobile devices",
-    "user": "U_bob",
-    "ts": "1772061619.2022192"
-  },
-  {
-    "channel": "general",
-    "keyword": "deploy",
-    "text": "Hotfix deploy completed successfully",
-    "user": "U_bob",
-    "ts": "1772041351.2243772"
-  },
-  {
-    "channel": "general",
-    "keyword": "deploy",
-    "text": "Preparing for the deploy window tomorrow morning",
-    "user": "U_bob",
-    "ts": "1771647120.818146"
-  },
-  {
-    "channel": "general",
-    "keyword": "outage",
-    "text": "Outage detected on the payment service — investigating now",
-    "user": "U_bob",
-    "ts": "1771821468.5675185"
+    "ts": "1772622511.2453115"
   },
   {
     "channel": "general",
     "keyword": "release",
     "text": "Release notes have been updated for the latest version",
     "user": "U_alice",
-    "ts": "1771831726.6325123"
+    "ts": "1772677650.5707529"
   },
   {
     "channel": "general",
-    "keyword": "blocker",
-    "text": "This is a blocker for the upcoming sprint, needs priority",
+    "keyword": "bug",
+    "text": "The checkout flow has a bug on mobile devices",
+    "user": "U_carol",
+    "ts": "1773016397.3166683"
+  },
+  {
+    "channel": "general",
+    "keyword": "bug",
+    "text": "Found a bug in the search indexer, creating a ticket",
+    "user": "U_alice",
+    "ts": "1772589658.8282504"
+  },
+  {
+    "channel": "general",
+    "keyword": "bug",
+    "text": "The checkout flow has a bug on mobile devices",
     "user": "U_dave",
-    "ts": "1771731897.5405207"
+    "ts": "1772657275.6414516"
   },
   {
     "channel": "general",
     "keyword": "release",
-    "text": "New release v2.3.1 is ready for QA review",
-    "user": "U_alice",
-    "ts": "1772224856.31183"
+    "text": "Release notes have been updated for the latest version",
+    "user": "U_eve",
+    "ts": "1772603392.6055324"
+  },
+  {
+    "channel": "general",
+    "keyword": "deploy",
+    "text": "Preparing for the deploy window tomorrow morning",
+    "user": "U_eve",
+    "ts": "1773033368.6808803"
+  },
+  {
+    "channel": "general",
+    "keyword": "deploy",
+    "text": "Deploy to staging was successful, moving to production next",
+    "user": "U_dave",
+    "ts": "1772783609.4939091"
+  },
+  {
+    "channel": "general",
+    "keyword": "incident",
+    "text": "No incidents this week — great job team!",
+    "user": "U_eve",
+    "ts": "1772664697.296093"
+  },
+  {
+    "channel": "general",
+    "keyword": "outage",
+    "text": "Outage detected on the payment service — investigating now",
+    "user": "U_bob",
+    "ts": "1772595898.4737897"
+  },
+  {
+    "channel": "general",
+    "keyword": "outage",
+    "text": "Outage detected on the payment service — investigating now",
+    "user": "U_eve",
+    "ts": "1773028007.2628317"
+  },
+  {
+    "channel": "general",
+    "keyword": "outage",
+    "text": "Outage detected on the payment service — investigating now",
+    "user": "U_carol",
+    "ts": "1772631955.1505094"
   },
   {
     "channel": "general",
     "keyword": "deploy",
     "text": "Deploy to staging was successful, moving to production next",
     "user": "U_eve",
-    "ts": "1771786233.3176672"
+    "ts": "1772787528.3930569"
   },
   {
     "channel": "general",
     "keyword": "blocker",
-    "text": "Blocker removed after discussion with the platform team",
+    "text": "This is a blocker for the upcoming sprint, needs priority",
+    "user": "U_dave",
+    "ts": "1772943572.8692935"
+  },
+  {
+    "channel": "general",
+    "keyword": "incident",
+    "text": "No incidents this week — great job team!",
     "user": "U_bob",
-    "ts": "1772069768.2530665"
+    "ts": "1773004803.1714017"
+  },
+  {
+    "channel": "general",
+    "keyword": "release",
+    "text": "Release candidate is passing all integration tests",
+    "user": "U_alice",
+    "ts": "1772747736.3734732"
+  },
+  {
+    "channel": "general",
+    "keyword": "blocker",
+    "text": "This is a blocker for the upcoming sprint, needs priority",
+    "user": "U_carol",
+    "ts": "1773080498.175834"
+  },
+  {
+    "channel": "general",
+    "keyword": "incident",
+    "text": "No incidents this week — great job team!",
+    "user": "U_bob",
+    "ts": "1772783426.4069786"
+  },
+  {
+    "channel": "general",
+    "keyword": "blocker",
+    "text": "Sprint retrospective: 2 blockers identified",
+    "user": "U_bob",
+    "ts": "1772884809.232483"
+  },
+  {
+    "channel": "general",
+    "keyword": "outage",
+    "text": "Outage postmortem scheduled for Friday",
+    "user": "U_dave",
+    "ts": "1772714508.6671093"
+  },
+  {
+    "channel": "general",
+    "keyword": "incident",
+    "text": "Incident reported: database connection pool exhausted",
+    "user": "U_eve",
+    "ts": "1772605154.4389396"
+  },
+  {
+    "channel": "general",
+    "keyword": "release",
+    "text": "Release notes have been updated for the latest version",
+    "user": "U_carol",
+    "ts": "1772638934.051263"
   },
   {
     "channel": "general",
     "keyword": "deploy",
     "text": "Preparing for the deploy window tomorrow morning",
     "user": "U_carol",
-    "ts": "1772071698.0302262"
+    "ts": "1772549017.9479997"
   },
   {
     "channel": "general",
-    "keyword": "deploy",
-    "text": "Hotfix deploy completed successfully",
+    "keyword": "release",
+    "text": "New release v2.3.1 is ready for QA review",
+    "user": "U_alice",
+    "ts": "1772693488.3015745"
+  },
+  {
+    "channel": "general",
+    "keyword": "bug",
+    "text": "The checkout flow has a bug on mobile devices",
     "user": "U_bob",
-    "ts": "1772168614.7630289"
+    "ts": "1772592871.6564152"
+  },
+  {
+    "channel": "general",
+    "keyword": "outage",
+    "text": "Outage detected on the payment service — investigating now",
+    "user": "U_eve",
+    "ts": "1772848425.7579832"
   },
   {
     "channel": "general",
     "keyword": "blocker",
-    "text": "Sprint retrospective: 2 blockers identified",
-    "user": "U_dave",
-    "ts": "1771691063.046884"
+    "text": "Blocker removed after discussion with the platform team",
+    "user": "U_carol",
+    "ts": "1772692853.8396604"
   },
   {
     "channel": "general",
+    "keyword": "incident",
+    "text": "Minor incident with the CDN, resolved within 5 minutes",
+    "user": "U_dave",
+    "ts": "1772760968.9630022"
+  },
+  {
+    "channel": "general",
+    "keyword": "bug",
+    "text": "Bug fix merged, ready for deploy",
+    "user": "U_bob",
+    "ts": "1772606158.0433567"
+  },
+  {
+    "channel": "general",
+    "keyword": "deploy",
+    "text": "Bug fix merged, ready for deploy",
+    "user": "U_eve",
+    "ts": "1772548935.7858315"
+  },
+  {
+    "channel": "general",
+    "keyword": "release",
+    "text": "New release v2.3.1 is ready for QA review",
+    "user": "U_carol",
+    "ts": "1772591301.514535"
+  },
+  {
+    "channel": "general",
+    "keyword": "incident",
+    "text": "Incident reported: database connection pool exhausted",
+    "user": "U_bob",
+    "ts": "1772911201.5908515"
+  },
+  {
+    "channel": "general",
+    "keyword": "release",
+    "text": "New release v2.3.1 is ready for QA review",
+    "user": "U_bob",
+    "ts": "1772833328.7135248"
+  },
+  {
+    "channel": "general",
+    "keyword": "incident",
+    "text": "No incidents this week — great job team!",
+    "user": "U_bob",
+    "ts": "1772997942.030616"
+  },
+  {
+    "channel": "general",
+    "keyword": "deploy",
+    "text": "Deploy to staging was successful, moving to production next",
+    "user": "U_alice",
+    "ts": "1772508680.6630254"
+  },
+  {
+    "channel": "general",
+    "keyword": "release",
+    "text": "Release notes have been updated for the latest version",
+    "user": "U_eve",
+    "ts": "1772904154.604982"
+  },
+  {
+    "channel": "general",
+    "keyword": "blocker",
+    "text": "Blocker removed after discussion with the platform team",
+    "user": "U_dave",
+    "ts": "1772693849.7253392"
+  },
+  {
+    "channel": "general",
+    "keyword": "release",
+    "text": "New release v2.3.1 is ready for QA review",
+    "user": "U_carol",
+    "ts": "1773066833.7716162"
+  },
+  {
+    "channel": "general",
+    "keyword": "outage",
+    "text": "Outage postmortem scheduled for Friday",
+    "user": "U_carol",
+    "ts": "1772780926.9937048"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "blocker",
+    "text": "Sprint retrospective: 2 blockers identified",
+    "user": "U_carol",
+    "ts": "1773004845.6438968"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "deploy",
+    "text": "Preparing for the deploy window tomorrow morning",
+    "user": "U_dave",
+    "ts": "1772872540.9823005"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "deploy",
+    "text": "Hotfix deploy completed successfully",
+    "user": "U_bob",
+    "ts": "1773087240.9343889"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "blocker",
+    "text": "This is a blocker for the upcoming sprint, needs priority",
+    "user": "U_bob",
+    "ts": "1772932471.3547094"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "outage",
+    "text": "Outage postmortem scheduled for Friday",
+    "user": "U_eve",
+    "ts": "1772551290.6952426"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "bug",
+    "text": "The checkout flow has a bug on mobile devices",
+    "user": "U_carol",
+    "ts": "1772719289.4516704"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "bug",
+    "text": "The checkout flow has a bug on mobile devices",
+    "user": "U_bob",
+    "ts": "1772572939.6396637"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "blocker",
+    "text": "This is a blocker for the upcoming sprint, needs priority",
+    "user": "U_bob",
+    "ts": "1772701707.89666"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "release",
+    "text": "Release candidate is passing all integration tests",
+    "user": "U_bob",
+    "ts": "1772562160.3098133"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "blocker",
+    "text": "Sprint retrospective: 2 blockers identified",
+    "user": "U_bob",
+    "ts": "1772817980.1198235"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "deploy",
+    "text": "Deploy to staging was successful, moving to production next",
+    "user": "U_carol",
+    "ts": "1772626511.946174"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "deploy",
+    "text": "Deploy to staging was successful, moving to production next",
+    "user": "U_eve",
+    "ts": "1772730204.2357569"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "deploy",
+    "text": "Preparing for the deploy window tomorrow morning",
+    "user": "U_eve",
+    "ts": "1772544026.946878"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "deploy",
+    "text": "Deploy to staging was successful, moving to production next",
+    "user": "U_bob",
+    "ts": "1773098799.9484282"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "incident",
+    "text": "Minor incident with the CDN, resolved within 5 minutes",
+    "user": "U_dave",
+    "ts": "1772971941.883218"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "blocker",
+    "text": "Blocker removed after discussion with the platform team",
+    "user": "U_eve",
+    "ts": "1772625398.467542"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "deploy",
+    "text": "Deploy to staging was successful, moving to production next",
+    "user": "U_alice",
+    "ts": "1772995358.7571666"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "outage",
+    "text": "Outage postmortem scheduled for Friday",
+    "user": "U_carol",
+    "ts": "1772896117.8936226"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "incident",
+    "text": "Minor incident with the CDN, resolved within 5 minutes",
+    "user": "U_bob",
+    "ts": "1772557310.3837848"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "bug",
+    "text": "Bug fix merged, ready for deploy",
+    "user": "U_eve",
+    "ts": "1772897436.9534972"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "deploy",
+    "text": "Bug fix merged, ready for deploy",
+    "user": "U_carol",
+    "ts": "1772839394.8533409"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "bug",
+    "text": "Bug fix merged, ready for deploy",
+    "user": "U_bob",
+    "ts": "1773100494.735044"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "deploy",
+    "text": "Bug fix merged, ready for deploy",
+    "user": "U_bob",
+    "ts": "1772574696.5729034"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "outage",
+    "text": "Outage postmortem scheduled for Friday",
+    "user": "U_carol",
+    "ts": "1772626949.951427"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "incident",
+    "text": "Minor incident with the CDN, resolved within 5 minutes",
+    "user": "U_bob",
+    "ts": "1772539582.7647078"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "incident",
+    "text": "Incident reported: database connection pool exhausted",
+    "user": "U_eve",
+    "ts": "1772672472.1584153"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "blocker",
+    "text": "Sprint retrospective: 2 blockers identified",
+    "user": "U_carol",
+    "ts": "1772663289.9540198"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "incident",
+    "text": "Minor incident with the CDN, resolved within 5 minutes",
+    "user": "U_bob",
+    "ts": "1772515083.1452942"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "incident",
+    "text": "Minor incident with the CDN, resolved within 5 minutes",
+    "user": "U_alice",
+    "ts": "1772952467.9820395"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "outage",
+    "text": "Outage detected on the payment service — investigating now",
+    "user": "U_eve",
+    "ts": "1773073908.9046955"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "deploy",
+    "text": "Preparing for the deploy window tomorrow morning",
+    "user": "U_eve",
+    "ts": "1772962117.9117696"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "release",
+    "text": "Planning the next release cycle, feedback welcome",
+    "user": "U_dave",
+    "ts": "1772701812.955837"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "deploy",
+    "text": "Preparing for the deploy window tomorrow morning",
+    "user": "U_alice",
+    "ts": "1772992832.1857035"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "bug",
+    "text": "The checkout flow has a bug on mobile devices",
+    "user": "U_carol",
+    "ts": "1772849394.6442785"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "outage",
+    "text": "Outage postmortem scheduled for Friday",
+    "user": "U_dave",
+    "ts": "1772858485.4060233"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "bug",
+    "text": "Found a bug in the search indexer, creating a ticket",
+    "user": "U_alice",
+    "ts": "1772533572.210921"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "blocker",
+    "text": "Blocker removed after discussion with the platform team",
+    "user": "U_eve",
+    "ts": "1772889815.2498934"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "outage",
+    "text": "Outage detected on the payment service — investigating now",
+    "user": "U_alice",
+    "ts": "1773096126.5653348"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "release",
+    "text": "Release notes have been updated for the latest version",
+    "user": "U_alice",
+    "ts": "1772624490.024077"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "outage",
+    "text": "Outage postmortem scheduled for Friday",
+    "user": "U_dave",
+    "ts": "1773096076.6898682"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "incident",
+    "text": "Minor incident with the CDN, resolved within 5 minutes",
+    "user": "U_eve",
+    "ts": "1772501629.3306859"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "blocker",
+    "text": "This is a blocker for the upcoming sprint, needs priority",
+    "user": "U_dave",
+    "ts": "1772745471.507464"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "outage",
+    "text": "Outage detected on the payment service — investigating now",
+    "user": "U_eve",
+    "ts": "1772828718.7841773"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "incident",
+    "text": "Minor incident with the CDN, resolved within 5 minutes",
+    "user": "U_dave",
+    "ts": "1772499453.6062174"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "release",
+    "text": "Planning the next release cycle, feedback welcome",
+    "user": "U_bob",
+    "ts": "1772811490.6524048"
+  },
+  {
+    "channel": "engineering",
+    "keyword": "incident",
+    "text": "No incidents this week — great job team!",
+    "user": "U_bob",
+    "ts": "1772994317.3125978"
+  },
+  {
+    "channel": "engineering",
     "keyword": "deploy",
     "text": "Deploy pipeline failed due to flaky test — rerunning",
-    "user": "U_eve",
-    "ts": "1771963783.7556243"
-  },
-  {
-    "channel": "general",
-    "keyword": "deploy",
-    "text": "Deploy to staging was successful, moving to production next",
-    "user": "U_eve",
-    "ts": "1771734120.2196498"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "blocker",
-    "text": "This is a blocker for the upcoming sprint, needs priority",
-    "user": "U_carol",
-    "ts": "1771641472.139293"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "incident",
-    "text": "No incidents this week — great job team!",
     "user": "U_bob",
-    "ts": "1772220216.0024338"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "bug",
-    "text": "We found a bug in the authentication module that needs fixing ASAP",
-    "user": "U_alice",
-    "ts": "1772127214.4638052"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "deploy",
-    "text": "Hotfix deploy completed successfully",
-    "user": "U_dave",
-    "ts": "1771905064.8406818"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "release",
-    "text": "Release notes have been updated for the latest version",
-    "user": "U_eve",
-    "ts": "1771731326.2045646"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "bug",
-    "text": "We found a bug in the authentication module that needs fixing ASAP",
-    "user": "U_dave",
-    "ts": "1771722646.4407897"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "release",
-    "text": "Release notes have been updated for the latest version",
-    "user": "U_carol",
-    "ts": "1771903046.9476032"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "release",
-    "text": "Release candidate is passing all integration tests",
-    "user": "U_dave",
-    "ts": "1771827368.2336414"
+    "ts": "1772671347.3825414"
   },
   {
     "channel": "engineering",
     "keyword": "deploy",
     "text": "Preparing for the deploy window tomorrow morning",
-    "user": "U_dave",
-    "ts": "1771989713.8811784"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "blocker",
-    "text": "This is a blocker for the upcoming sprint, needs priority",
-    "user": "U_eve",
-    "ts": "1771656197.2269201"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "bug",
-    "text": "We found a bug in the authentication module that needs fixing ASAP",
-    "user": "U_carol",
-    "ts": "1771749454.8333576"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "deploy",
-    "text": "Deploy to staging was successful, moving to production next",
-    "user": "U_dave",
-    "ts": "1772077378.2680469"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "incident",
-    "text": "No incidents this week — great job team!",
-    "user": "U_bob",
-    "ts": "1771823205.1288161"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "bug",
-    "text": "Bug fix merged, ready for deploy",
-    "user": "U_eve",
-    "ts": "1771714189.026036"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "deploy",
-    "text": "Bug fix merged, ready for deploy",
     "user": "U_alice",
-    "ts": "1772080542.520736"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "blocker",
-    "text": "This is a blocker for the upcoming sprint, needs priority",
-    "user": "U_eve",
-    "ts": "1772212177.1369543"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "release",
-    "text": "Release candidate is passing all integration tests",
-    "user": "U_alice",
-    "ts": "1771917617.528892"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "bug",
-    "text": "We found a bug in the authentication module that needs fixing ASAP",
-    "user": "U_eve",
-    "ts": "1772190932.5389214"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "bug",
-    "text": "Bug fix merged, ready for deploy",
-    "user": "U_eve",
-    "ts": "1771629639.1179655"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "deploy",
-    "text": "Bug fix merged, ready for deploy",
-    "user": "U_carol",
-    "ts": "1771882646.2831826"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "release",
-    "text": "Release notes have been updated for the latest version",
-    "user": "U_dave",
-    "ts": "1771645320.3550572"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "deploy",
-    "text": "Hotfix deploy completed successfully",
-    "user": "U_bob",
-    "ts": "1772175426.2478268"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "bug",
-    "text": "The checkout flow has a bug on mobile devices",
-    "user": "U_dave",
-    "ts": "1771895198.5517461"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "incident",
-    "text": "No incidents this week — great job team!",
-    "user": "U_bob",
-    "ts": "1771919764.1020696"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "bug",
-    "text": "Bug fix merged, ready for deploy",
-    "user": "U_bob",
-    "ts": "1772048658.797429"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "deploy",
-    "text": "Bug fix merged, ready for deploy",
-    "user": "U_carol",
-    "ts": "1772154449.397551"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "outage",
-    "text": "Outage detected on the payment service — investigating now",
-    "user": "U_dave",
-    "ts": "1772078149.4864795"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "release",
-    "text": "Planning the next release cycle, feedback welcome",
-    "user": "U_dave",
-    "ts": "1771653615.0868375"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "incident",
-    "text": "No incidents this week — great job team!",
-    "user": "U_alice",
-    "ts": "1771922621.198097"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "bug",
-    "text": "We found a bug in the authentication module that needs fixing ASAP",
-    "user": "U_alice",
-    "ts": "1772026609.0677752"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "bug",
-    "text": "We found a bug in the authentication module that needs fixing ASAP",
-    "user": "U_eve",
-    "ts": "1772185941.4903371"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "release",
-    "text": "Planning the next release cycle, feedback welcome",
-    "user": "U_dave",
-    "ts": "1771954463.127015"
-  },
-  {
-    "channel": "engineering",
-    "keyword": "incident",
-    "text": "Minor incident with the CDN, resolved within 5 minutes",
-    "user": "U_bob",
-    "ts": "1771639372.835213"
+    "ts": "1772737503.1877358"
   },
   {
     "channel": "engineering",
     "keyword": "bug",
     "text": "Found a bug in the search indexer, creating a ticket",
     "user": "U_alice",
-    "ts": "1772068136.987061"
+    "ts": "1772853466.2160802"
   },
   {
     "channel": "engineering",
-    "keyword": "release",
-    "text": "Release notes have been updated for the latest version",
-    "user": "U_dave",
-    "ts": "1771982196.0625467"
+    "keyword": "deploy",
+    "text": "Hotfix deploy completed successfully",
+    "user": "U_eve",
+    "ts": "1772654929.4692185"
   },
   {
-    "channel": "product",
-    "keyword": "incident",
-    "text": "No incidents this week — great job team!",
+    "channel": "engineering",
+    "keyword": "bug",
+    "text": "Found a bug in the search indexer, creating a ticket",
     "user": "U_dave",
-    "ts": "1771831594.77941"
-  },
-  {
-    "channel": "product",
-    "keyword": "blocker",
-    "text": "Blocker removed after discussion with the platform team",
-    "user": "U_carol",
-    "ts": "1772217453.83326"
+    "ts": "1772926048.8983765"
   },
   {
     "channel": "product",
     "keyword": "deploy",
-    "text": "Deploy to staging was successful, moving to production next",
-    "user": "U_carol",
-    "ts": "1771644709.9298995"
+    "text": "Preparing for the deploy window tomorrow morning",
+    "user": "U_eve",
+    "ts": "1773010833.9509692"
   },
   {
     "channel": "product",
     "keyword": "bug",
-    "text": "Bug fix merged, ready for deploy",
-    "user": "U_bob",
-    "ts": "1771952984.7595887"
-  },
-  {
-    "channel": "product",
-    "keyword": "deploy",
-    "text": "Bug fix merged, ready for deploy",
+    "text": "The checkout flow has a bug on mobile devices",
     "user": "U_dave",
-    "ts": "1771891552.5824175"
+    "ts": "1772577978.8719354"
   },
   {
     "channel": "product",
-    "keyword": "release",
-    "text": "Planning the next release cycle, feedback welcome",
-    "user": "U_alice",
-    "ts": "1771668759.1518204"
-  },
-  {
-    "channel": "product",
-    "keyword": "deploy",
-    "text": "Hotfix deploy completed successfully",
-    "user": "U_alice",
-    "ts": "1771825653.613254"
-  },
-  {
-    "channel": "product",
-    "keyword": "blocker",
-    "text": "Sprint retrospective: 2 blockers identified",
-    "user": "U_alice",
-    "ts": "1771665355.377182"
-  },
-  {
-    "channel": "product",
-    "keyword": "release",
-    "text": "New release v2.3.1 is ready for QA review",
-    "user": "U_dave",
-    "ts": "1771807281.2621367"
-  },
-  {
-    "channel": "product",
-    "keyword": "deploy",
-    "text": "Deploy to staging was successful, moving to production next",
-    "user": "U_alice",
-    "ts": "1771676253.23282"
-  },
-  {
-    "channel": "product",
-    "keyword": "release",
-    "text": "Planning the next release cycle, feedback welcome",
+    "keyword": "outage",
+    "text": "Outage postmortem scheduled for Friday",
     "user": "U_carol",
-    "ts": "1772045589.5820239"
-  },
-  {
-    "channel": "product",
-    "keyword": "outage",
-    "text": "Outage detected on the payment service — investigating now",
-    "user": "U_dave",
-    "ts": "1772025371.4610841"
-  },
-  {
-    "channel": "product",
-    "keyword": "blocker",
-    "text": "Blocker removed after discussion with the platform team",
-    "user": "U_alice",
-    "ts": "1772044638.7668765"
-  },
-  {
-    "channel": "product",
-    "keyword": "outage",
-    "text": "Outage detected on the payment service — investigating now",
-    "user": "U_eve",
-    "ts": "1771664548.0463462"
-  },
-  {
-    "channel": "product",
-    "keyword": "deploy",
-    "text": "Hotfix deploy completed successfully",
-    "user": "U_bob",
-    "ts": "1771731380.1358771"
-  },
-  {
-    "channel": "product",
-    "keyword": "blocker",
-    "text": "Sprint retrospective: 2 blockers identified",
-    "user": "U_eve",
-    "ts": "1771741894.5192063"
-  },
-  {
-    "channel": "product",
-    "keyword": "blocker",
-    "text": "Sprint retrospective: 2 blockers identified",
-    "user": "U_dave",
-    "ts": "1771860239.5934212"
-  },
-  {
-    "channel": "product",
-    "keyword": "incident",
-    "text": "Minor incident with the CDN, resolved within 5 minutes",
-    "user": "U_eve",
-    "ts": "1771919384.8875632"
-  },
-  {
-    "channel": "product",
-    "keyword": "release",
-    "text": "Release candidate is passing all integration tests",
-    "user": "U_eve",
-    "ts": "1772011425.7089467"
+    "ts": "1772523957.101994"
   },
   {
     "channel": "product",
     "keyword": "release",
     "text": "New release v2.3.1 is ready for QA review",
     "user": "U_bob",
-    "ts": "1771707511.0946712"
+    "ts": "1772724363.3774107"
   },
   {
     "channel": "product",
-    "keyword": "outage",
-    "text": "Outage detected on the payment service — investigating now",
+    "keyword": "incident",
+    "text": "Incident reported: database connection pool exhausted",
+    "user": "U_eve",
+    "ts": "1773075442.0435174"
+  },
+  {
+    "channel": "product",
+    "keyword": "release",
+    "text": "Release candidate is passing all integration tests",
+    "user": "U_alice",
+    "ts": "1772535638.7205732"
+  },
+  {
+    "channel": "product",
+    "keyword": "release",
+    "text": "Planning the next release cycle, feedback welcome",
+    "user": "U_bob",
+    "ts": "1772843161.808061"
+  },
+  {
+    "channel": "product",
+    "keyword": "blocker",
+    "text": "Sprint retrospective: 2 blockers identified",
+    "user": "U_alice",
+    "ts": "1772629675.6054375"
+  },
+  {
+    "channel": "product",
+    "keyword": "deploy",
+    "text": "Preparing for the deploy window tomorrow morning",
+    "user": "U_eve",
+    "ts": "1773022416.32193"
+  },
+  {
+    "channel": "product",
+    "keyword": "bug",
+    "text": "Bug fix merged, ready for deploy",
+    "user": "U_dave",
+    "ts": "1772538463.7045772"
+  },
+  {
+    "channel": "product",
+    "keyword": "deploy",
+    "text": "Bug fix merged, ready for deploy",
+    "user": "U_bob",
+    "ts": "1772990599.1760087"
+  },
+  {
+    "channel": "product",
+    "keyword": "release",
+    "text": "New release v2.3.1 is ready for QA review",
+    "user": "U_alice",
+    "ts": "1772813925.1565628"
+  },
+  {
+    "channel": "product",
+    "keyword": "release",
+    "text": "New release v2.3.1 is ready for QA review",
+    "user": "U_eve",
+    "ts": "1773099369.6345384"
+  },
+  {
+    "channel": "product",
+    "keyword": "release",
+    "text": "New release v2.3.1 is ready for QA review",
+    "user": "U_bob",
+    "ts": "1773053614.9160502"
+  },
+  {
+    "channel": "product",
+    "keyword": "deploy",
+    "text": "Deploy to staging was successful, moving to production next",
+    "user": "U_eve",
+    "ts": "1772894718.098836"
+  },
+  {
+    "channel": "product",
+    "keyword": "bug",
+    "text": "Found a bug in the search indexer, creating a ticket",
     "user": "U_carol",
-    "ts": "1772112441.5391796"
+    "ts": "1772809416.8229105"
+  },
+  {
+    "channel": "product",
+    "keyword": "blocker",
+    "text": "Sprint retrospective: 2 blockers identified",
+    "user": "U_bob",
+    "ts": "1772994463.6965437"
   },
   {
     "channel": "product",
     "keyword": "bug",
     "text": "The checkout flow has a bug on mobile devices",
     "user": "U_carol",
-    "ts": "1771696607.84789"
+    "ts": "1772705731.999106"
   },
   {
     "channel": "product",
-    "keyword": "outage",
-    "text": "Outage detected on the payment service — investigating now",
+    "keyword": "release",
+    "text": "New release v2.3.1 is ready for QA review",
     "user": "U_carol",
-    "ts": "1771751492.3651097"
-  },
-  {
-    "channel": "product",
-    "keyword": "incident",
-    "text": "Incident reported: database connection pool exhausted",
-    "user": "U_dave",
-    "ts": "1772216630.396033"
-  },
-  {
-    "channel": "product",
-    "keyword": "blocker",
-    "text": "This is a blocker for the upcoming sprint, needs priority",
-    "user": "U_dave",
-    "ts": "1772015549.0191567"
-  },
-  {
-    "channel": "product",
-    "keyword": "release",
-    "text": "Release notes have been updated for the latest version",
-    "user": "U_alice",
-    "ts": "1771868857.742973"
-  },
-  {
-    "channel": "product",
-    "keyword": "bug",
-    "text": "Found a bug in the search indexer, creating a ticket",
-    "user": "U_bob",
-    "ts": "1772086766.8438144"
-  },
-  {
-    "channel": "product",
-    "keyword": "outage",
-    "text": "Outage postmortem scheduled for Friday",
-    "user": "U_bob",
-    "ts": "1772110552.8533936"
-  },
-  {
-    "channel": "product",
-    "keyword": "release",
-    "text": "Planning the next release cycle, feedback welcome",
-    "user": "U_eve",
-    "ts": "1771744222.0339396"
-  },
-  {
-    "channel": "product",
-    "keyword": "incident",
-    "text": "Minor incident with the CDN, resolved within 5 minutes",
-    "user": "U_alice",
-    "ts": "1771852260.1434138"
-  },
-  {
-    "channel": "product",
-    "keyword": "release",
-    "text": "Planning the next release cycle, feedback welcome",
-    "user": "U_eve",
-    "ts": "1772096572.2773254"
-  },
-  {
-    "channel": "product",
-    "keyword": "blocker",
-    "text": "This is a blocker for the upcoming sprint, needs priority",
-    "user": "U_eve",
-    "ts": "1772160529.229382"
-  },
-  {
-    "channel": "product",
-    "keyword": "release",
-    "text": "Release candidate is passing all integration tests",
-    "user": "U_alice",
-    "ts": "1772042261.490968"
-  },
-  {
-    "channel": "product",
-    "keyword": "incident",
-    "text": "Incident reported: database connection pool exhausted",
-    "user": "U_dave",
-    "ts": "1771848590.8301773"
+    "ts": "1772815297.485713"
   },
   {
     "channel": "product",
     "keyword": "bug",
     "text": "We found a bug in the authentication module that needs fixing ASAP",
-    "user": "U_dave",
-    "ts": "1771827691.670273"
+    "user": "U_eve",
+    "ts": "1773083989.5886483"
   },
   {
     "channel": "product",
-    "keyword": "blocker",
-    "text": "Blocker removed after discussion with the platform team",
-    "user": "U_carol",
-    "ts": "1772156099.879964"
+    "keyword": "release",
+    "text": "Release notes have been updated for the latest version",
+    "user": "U_bob",
+    "ts": "1772592944.6780512"
+  },
+  {
+    "channel": "product",
+    "keyword": "bug",
+    "text": "We found a bug in the authentication module that needs fixing ASAP",
+    "user": "U_eve",
+    "ts": "1772873978.0781798"
   },
   {
     "channel": "product",
     "keyword": "release",
     "text": "Planning the next release cycle, feedback welcome",
     "user": "U_carol",
-    "ts": "1772040139.7407694"
+    "ts": "1772567414.9584553"
+  },
+  {
+    "channel": "product",
+    "keyword": "blocker",
+    "text": "Blocker removed after discussion with the platform team",
+    "user": "U_alice",
+    "ts": "1772934955.347521"
+  },
+  {
+    "channel": "product",
+    "keyword": "deploy",
+    "text": "Deploy to staging was successful, moving to production next",
+    "user": "U_bob",
+    "ts": "1772776262.9854555"
+  },
+  {
+    "channel": "product",
+    "keyword": "release",
+    "text": "New release v2.3.1 is ready for QA review",
+    "user": "U_carol",
+    "ts": "1772633905.6975703"
+  },
+  {
+    "channel": "product",
+    "keyword": "blocker",
+    "text": "Blocker removed after discussion with the platform team",
+    "user": "U_alice",
+    "ts": "1772812621.6212053"
+  },
+  {
+    "channel": "product",
+    "keyword": "bug",
+    "text": "Bug fix merged, ready for deploy",
+    "user": "U_bob",
+    "ts": "1772750156.7331085"
+  },
+  {
+    "channel": "product",
+    "keyword": "deploy",
+    "text": "Bug fix merged, ready for deploy",
+    "user": "U_bob",
+    "ts": "1772805247.5815017"
   },
   {
     "channel": "product",
     "keyword": "blocker",
     "text": "This is a blocker for the upcoming sprint, needs priority",
-    "user": "U_alice",
-    "ts": "1771780187.06342"
-  },
-  {
-    "channel": "product",
-    "keyword": "incident",
-    "text": "No incidents this week — great job team!",
-    "user": "U_dave",
-    "ts": "1771972829.6372874"
-  },
-  {
-    "channel": "product",
-    "keyword": "incident",
-    "text": "No incidents this week — great job team!",
     "user": "U_eve",
-    "ts": "1771793201.5669637"
+    "ts": "1772962236.579325"
+  },
+  {
+    "channel": "product",
+    "keyword": "blocker",
+    "text": "This is a blocker for the upcoming sprint, needs priority",
+    "user": "U_eve",
+    "ts": "1772622243.627435"
+  },
+  {
+    "channel": "product",
+    "keyword": "release",
+    "text": "Planning the next release cycle, feedback welcome",
+    "user": "U_alice",
+    "ts": "1772719633.438327"
+  },
+  {
+    "channel": "product",
+    "keyword": "outage",
+    "text": "Outage postmortem scheduled for Friday",
+    "user": "U_bob",
+    "ts": "1773038943.4592597"
+  },
+  {
+    "channel": "product",
+    "keyword": "incident",
+    "text": "No incidents this week — great job team!",
+    "user": "U_bob",
+    "ts": "1772988048.7634983"
+  },
+  {
+    "channel": "product",
+    "keyword": "incident",
+    "text": "Incident reported: database connection pool exhausted",
+    "user": "U_dave",
+    "ts": "1772831556.7357428"
+  },
+  {
+    "channel": "product",
+    "keyword": "blocker",
+    "text": "Blocker removed after discussion with the platform team",
+    "user": "U_bob",
+    "ts": "1772721457.2206423"
+  },
+  {
+    "channel": "product",
+    "keyword": "incident",
+    "text": "Incident reported: database connection pool exhausted",
+    "user": "U_carol",
+    "ts": "1772660897.016489"
+  },
+  {
+    "channel": "product",
+    "keyword": "bug",
+    "text": "Found a bug in the search indexer, creating a ticket",
+    "user": "U_carol",
+    "ts": "1772838039.6208584"
+  },
+  {
+    "channel": "product",
+    "keyword": "release",
+    "text": "Planning the next release cycle, feedback welcome",
+    "user": "U_alice",
+    "ts": "1772882792.3359365"
+  },
+  {
+    "channel": "product",
+    "keyword": "deploy",
+    "text": "Preparing for the deploy window tomorrow morning",
+    "user": "U_bob",
+    "ts": "1772692199.7358837"
+  },
+  {
+    "channel": "product",
+    "keyword": "bug",
+    "text": "The checkout flow has a bug on mobile devices",
+    "user": "U_dave",
+    "ts": "1772630092.3378878"
+  },
+  {
+    "channel": "product",
+    "keyword": "blocker",
+    "text": "Sprint retrospective: 2 blockers identified",
+    "user": "U_eve",
+    "ts": "1772873148.8131516"
+  },
+  {
+    "channel": "product",
+    "keyword": "bug",
+    "text": "Bug fix merged, ready for deploy",
+    "user": "U_dave",
+    "ts": "1773080578.3326638"
+  },
+  {
+    "channel": "product",
+    "keyword": "deploy",
+    "text": "Bug fix merged, ready for deploy",
+    "user": "U_eve",
+    "ts": "1772694463.9094713"
+  },
+  {
+    "channel": "product",
+    "keyword": "outage",
+    "text": "Outage detected on the payment service — investigating now",
+    "user": "U_bob",
+    "ts": "1773014308.0641751"
+  },
+  {
+    "channel": "product",
+    "keyword": "deploy",
+    "text": "Preparing for the deploy window tomorrow morning",
+    "user": "U_alice",
+    "ts": "1773001425.0103767"
+  },
+  {
+    "channel": "product",
+    "keyword": "release",
+    "text": "Release candidate is passing all integration tests",
+    "user": "U_alice",
+    "ts": "1772686681.2366865"
+  },
+  {
+    "channel": "product",
+    "keyword": "blocker",
+    "text": "Blocker removed after discussion with the platform team",
+    "user": "U_bob",
+    "ts": "1772613634.2136953"
   },
   {
     "channel": "product",
     "keyword": "release",
     "text": "Release candidate is passing all integration tests",
     "user": "U_bob",
-    "ts": "1772055669.5761704"
+    "ts": "1772774417.0950508"
   },
   {
     "channel": "product",
     "keyword": "bug",
     "text": "Found a bug in the search indexer, creating a ticket",
-    "user": "U_eve",
-    "ts": "1772216078.388572"
+    "user": "U_bob",
+    "ts": "1772662166.9126854"
   },
   {
     "channel": "product",
-    "keyword": "outage",
-    "text": "Outage postmortem scheduled for Friday",
+    "keyword": "bug",
+    "text": "The checkout flow has a bug on mobile devices",
     "user": "U_alice",
-    "ts": "1772223053.2205842"
+    "ts": "1772848966.0213492"
   },
   {
     "channel": "product",
     "keyword": "release",
-    "text": "Planning the next release cycle, feedback welcome",
-    "user": "U_alice",
-    "ts": "1771967147.550243"
-  },
-  {
-    "channel": "product",
-    "keyword": "blocker",
-    "text": "Sprint retrospective: 2 blockers identified",
-    "user": "U_carol",
-    "ts": "1772037774.8881848"
-  },
-  {
-    "channel": "product",
-    "keyword": "release",
-    "text": "Release notes have been updated for the latest version",
+    "text": "New release v2.3.1 is ready for QA review",
     "user": "U_dave",
-    "ts": "1772079924.6406317"
+    "ts": "1772667698.0204353"
   }
 ]
