@@ -16,8 +16,6 @@
 
 Source code: [github.com/NeoSkillFactory/slack-summary-monitor](https://github.com/NeoSkillFactory/slack-summary-monitor)
 
-**Price suggestion:** $19.99
-
 ## License
 
 MIT © NeoSkillFactory
